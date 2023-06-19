@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
 
 ### 💻 I have worked on :
-[AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).
-[SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)
+[AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).<br> 
+[SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)<br> 
 
 
 ### :fire: My Stats :
