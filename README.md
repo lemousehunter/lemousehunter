@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="80" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactNative"  alt="ReactNative" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactNative" alt="ReactNative" width="80" height="80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
+
+### 💻 I have worked on :
+[AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).
+[SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)
+
 
 ### :fire: My Stats :
 
