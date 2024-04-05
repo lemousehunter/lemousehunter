@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 
+---
+
 ### :hammer_and_wrench: Tools of Trade:
 <div><i class="icon-cassandra"></i>
-  
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
@@ -33,14 +34,20 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactNative" alt="ReactNative" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
 
+---
+
 ### 💻 I have worked on :
 [AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).<br> 
 [SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)<br> 
+
+---
 
 ### 🔍 I can also be found at :
 HF 🤗: [lemousehunter](https://huggingface.co/lemousehunter)
 <br>
 Docker 🐳: [lemousehunter](https://hub.docker.com/u/lemousehunter)
+
+---
 
 ### :fire: My Stats :
 
