@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 [SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)<br> 
 
 ### 🔍 I can also be found at :
-HF: 🤗[lemousehunter](https://huggingface.co/lemousehunter)
+HF: 🤗 [lemousehunter](https://huggingface.co/lemousehunter)
 <br>
-Docker: 🐳[lemousehunter](https://hub.docker.com/u/lemousehunter)
+Docker: 🐳 [lemousehunter](https://hub.docker.com/u/lemousehunter)
 
 ### :fire: My Stats :
 
