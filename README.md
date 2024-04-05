@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 [AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).<br> 
 [SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)<br> 
 
+### 🔍 I can also be found at :
+HF: 🤗 [lemousehunter](https://huggingface.co/lemousehunter)
+Docker: 🐳 [lemousehunter](https://hub.docker.com/u/lemousehunter)
 
 ### :fire: My Stats :
 
