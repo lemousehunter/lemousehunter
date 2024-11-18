@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 I have worked on :
-[AI | NLP] [Spam-ham message classification](https://github.com/lemousehunter/SC1015-NLP-Spam-Detection-Project).<br> 
+[AI | NLP] [1.5-Pints: Pretraining and LLM in Days](https://github.com/Pints-AI/1.5-Pints).<br> 
+[DB | FullStack](https://github.com/lemousehunter/SC3020-Project-2).<br> 
+[DB | C++] [B+ Tree](https://github.com/lemousehunter/SC3020-Project-1).<br> 
 [SWE | IOS] [Lost and found app](https://github.com/lemousehunter/SC2006_Meta-4)<br> 
 
 ---
