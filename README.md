@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 I have worked on :
+[AI | Agentic] [CRDFAgent](https://github.com/lemousehunter/CRDFAgent)<br> 
 [AI | NLP] [1.5-Pints: Pretraining and LLM in Days](https://github.com/Pints-AI/1.5-Pints)<br> 
 [DB | FullStack] [QEP Enforcement System](https://github.com/lemousehunter/SC3020-Project-2)<br> 
 [DB | C++] [B+ Tree](https://github.com/lemousehunter/SC3020-Project-1)<br> 
